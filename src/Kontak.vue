@@ -4,9 +4,10 @@
     
 <div class="grid mb-8 border-0 md:mb-12 md:grid-cols-2">
     <figure class="flex flex-col"><br>
+        
            <b class="p-2" style="font-size: 30px; text-align: center; color: black; font-family: 'sans-serif', Calibri, 'Trebuchet MS', sans-serif;">Kirim Saran</b>
            <Input placeholder="Email" label="Masukan Email"></input> <br>
-
+            <Input placeholder="Nama" label="Masukan Nama"></input> <br>
             <form>
                 <h1><b>Masukan Saran</b></h1>
    <div class="w-full mb-4 border border-gray-200 rounded-lg bg-gray-50 dark:bg-gray-700 dark:border-gray-600">
